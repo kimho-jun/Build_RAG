@@ -1,0 +1,23 @@
+# 랭체인 프레임워크 및 인터페이스
+langchain
+langchain-experimental
+langchain-huggingface
+langchain-chroma
+langchain-community
+
+torch
+transformers
+sentence-transformers
+huggingface-hub
+accelerate
+
+# 데이터 처리 
+pandas
+numpy
+tqdm
+contractions
+scikit-learn
+rank_bm25
+
+# 벡터 DB
+chromadb
